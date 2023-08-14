@@ -1,12 +1,12 @@
 {
   "profomaPreview":[
-    {"id":"eX12", "eventname":"Women in Tech Dar", "eventdate":"12-July-2023 to 15-July-2023", "eventcost":"39000" },
-    {"id":"eX23", "eventname":"Men in Tech Dar", "eventdate":"02-July-2023 to 10-July-2023", "eventcost":"58000" },
-    {"id":"eX15", "eventname":"Wawata Kinondoni", "eventdate":"30-July-2023 to 08-August-2023", "eventcost":"690000" },
+    {"id":"eX12", "eventname":"Women in Tech Dar", "eventdate":"12-July-2023 to 15-July-2023", "eventcost":"39000"},
+    {"id":"eX23", "eventname":"Men in Tech Dar", "eventdate":"02-July-2023 to 10-July-2023", "eventcost":"58000"},
+    {"id":"eX15", "eventname":"Wawata Kinondoni", "eventdate":"30-July-2023 to 08-August-2023", "eventcost":"690000"},
     {"id":"eX56", "eventname":"Bakita Outreach", "eventdate":"23-August-2023", "eventcost":"39000" },
-    {"id":"eX13", "eventname":"Kapuchini Brothers", "eventdate":"25-September-2023 to 27-September-2023", "eventcost":"1050000" },
-    {"id":"eX16", "eventname":"Ilala Municipal Youth", "eventdate":"17-August-2023 to 15-July-2023", "eventcost":"720000" },
-    {"id":"eX10", "eventname":"Veta Easten Reagion", "eventdate":"17-August-2023 to 23-August-2023", "eventcost":"560000" },
-    {"id":"eX17", "eventname":"Yanga B  Coach ", "eventdate":"09-September-2023", "eventcost":"5430000" }
+    {"id":"eX13", "eventname":"Kapuchini Brothers", "eventdate":"25-September-2023 to 27-September-2023", "eventcost":"1050000"},
+    {"id":"eX16", "eventname":"Ilala Municipal Youth", "eventdate":"17-August-2023 to 15-July-2023", "eventcost":"720000"},
+    {"id":"eX10", "eventname":"Veta Easten Reagion", "eventdate":"17-August-2023 to 23-August-2023", "eventcost":"560000"},
+    {"id":"eX17", "eventname":"Yanga B  Coach ", "eventdate":"09-September-2023", "eventcost":"5430000"}
   ]
 }
