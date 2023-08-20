@@ -10,9 +10,9 @@
     {"id":"eX17", "eventname":"Yanga B  Coach ", "eventdate":"09-September-2023", "eventcost":"5430000"}
   ],
 "serviceCategories":[
-  {"id":"sc23", "categoryName":"Accomodation"},
-  {"id":"sc13", "categoryName":"Halls"},
-  {"id":"sc43", "categoryName":"Meals"},
-  {"id":"sc53", "categoryName":"Note"},
-]
+    {"id":"sc23", "categoryName":"Accomodation"},
+    {"id":"sc13", "categoryName":"Halls"},
+    {"id":"sc43", "categoryName":"Meals"},
+    {"id":"sc53", "categoryName":"Note"},
+  ]
 }
