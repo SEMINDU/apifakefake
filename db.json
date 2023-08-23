@@ -24,9 +24,9 @@
       "eventcost":"23000",
       "eventparticipants":"4",
       "eventservices": [
-        {"s_id": "s23", "servicename":"Single Room", "servicecategory":"Accommodation","unitprice":"5000","#_units":"4","#_days":"3", "discount":"0" },
-        {"s_id":"s13", "servicename":"Small Hall 10-15 People", "servicecategory":"Halls","unitprice":"5000","#_units":"4","#_days":"3", "discount":"0" },
-        {"s_id":"s43", "servicename":"Afternoon Lunch","servicecategory":"Meals","unitprice":"5000","#_units":"4","#_days":"3", "discount":"0" },
+        {"s_id": "s23", "servicename":"Single Room", "servicecategory":"Accommodation","unitprice":"5000","#_units":"4","#_days":"3", "discount":"0"},
+        {"s_id":"s13", "servicename":"Small Hall 10-15 People", "servicecategory":"Halls","unitprice":"5000","#_units":"4","#_days":"3", "discount":"0"},
+        {"s_id":"s43", "servicename":"Afternoon Lunch","servicecategory":"Meals","unitprice":"5000","#_units":"4","#_days":"3", "discount":"0"},
         {"s_id":"s53", "servicename":"Special Order", "message":"Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply."}
       ]
     }
